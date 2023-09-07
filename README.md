@@ -8,3 +8,13 @@ Main focus  --> Data analytics projects
             --> Signal Processing projects
 Aim --> to become better at coding and be more confident on building projects
     --> Instill habit of reading other people's codes
+
+
+Okay so I've found a GFG link for projects I am going to follow the projects and would implement them each day here:
+
+https://www.geeksforgeeks.org/python-projects-beginner-to-advanced/
+Here is the LINK
+
+now the idea for learning is: 
+                        A) for initial some projects : read the code and then replicate the code on own.
+                        B) Over time start writing on own.
